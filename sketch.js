@@ -7,7 +7,7 @@ var obstaclesGroup, obstacle_img;
 
 var gameOver;
 var score=0;
-
+var flower
 
 function preload(){
   backImage=loadImage("jungle2.jpg");
